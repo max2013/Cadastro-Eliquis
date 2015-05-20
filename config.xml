@@ -2,14 +2,14 @@
 <widget id="br.com.maxexperience.eliquiscadastro" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Eliquis Cadastro</name>
     <description>
-        Eliquis Cadastro
+        Eliquis Cadastro 2015
     </description>
-    <author email="rafael@maxexperience.com.br" href="http://maxexperience.com.br">
-        Eliquis Cadastro
+    <author email="alan@maxexperience.com.br" href="http://maxexperience.com.br">
+        Eliquis Cadastro 2015
     </author>
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />
-    <preference name="orientation" value="portrait" />
+    <preference name="orientation" value="landscape" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
